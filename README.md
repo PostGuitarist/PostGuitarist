@@ -16,9 +16,6 @@
   <ul>
     <li><a href="https://github.com/">Placeholder</a></li>
     <li><a href="https://github.com/">Placeholder</a></li>
-    <li><a href="https://github.com/">Placeholder</a></li>
-    <li><a href="https://github.com/">Placeholder</a></li>
-    <li><a href="https://github.com/">Placeholder</a></li>
   </ul>
  </details>
   <details>
@@ -45,17 +42,7 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
-  My name describes my qualities:
-  M: Magestic
-  A: Active
-  H: Hard working
-  E: Energetic
-  N: Neat handed
-  D: Delight
-  R: Responsible
-  A: Authentic
+  An Information Technolgoy student at Liberty University. Studying Data Networkign & Security, and Web and Mobile Programming<br>
   </pre>
 </details>
 <h2>Worked with</h3>
@@ -63,15 +50,15 @@
 
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/java.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/python.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/c.svg">&nbsp;
+<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/c++.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/html5.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/css3.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/javascript.svg">&nbsp;
+<!-- <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/javascript.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/react.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/django.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/npm.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/nodedotjs.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/dotnet.svg">&nbsp;
+<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/dotnet.svg">&nbsp; -->
 <h3>[$Operating Systems:~#]</h3>
 
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/windows.svg">&nbsp;
