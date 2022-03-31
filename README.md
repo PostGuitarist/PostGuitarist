@@ -56,22 +56,22 @@
 <h3>[$Operating Systems:~#]</h3>
 
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/windows.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/ubuntu.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/macos.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/android.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/ios.svg">&nbsp;
+<!-- <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/ubuntu.svg">&nbsp; -->
+<!-- <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/android.svg">&nbsp; -->
 <h3>[$Integrated Development Environments:~#]</h3>
 
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/vscode.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/sublime.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/androidstudio.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/xcode.svg">&nbsp;
+<!-- <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/androidstudio.svg">&nbsp; -->
 <h3>[$Other Technologies:~#]</h3>
 
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/aws.svg">&nbsp;
+<!-- <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/aws.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/googlecloud.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/azure.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/git.svg">&nbsp;
+<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/git.svg">&nbsp; -->
 
 <h2>What if you like my work? 🚀</h2>
 <ul>
