@@ -72,7 +72,6 @@
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/npm.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/nodedotjs.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/dotnet.svg">&nbsp;
-<img align="right" src="https://github.com/postguitarist/postguitarist/blob/master/work-from-home.gif" width="300px">
 <h3>[$Operating Systems:~#]</h3>
 
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/windows.svg">&nbsp;
