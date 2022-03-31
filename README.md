@@ -16,13 +16,13 @@
   </ul>
  </details>
   <details>
-  <summary>Application Development</summary>
+  <summary>Desktop Application Development</summary>
   <ul>
     <li><a href="https://github.com/postguitarist">Placeholder</a></li>
     <li><a href="https://github.com/postguitarist">Placeholder</a></li>
   </ul>
   </details>
-  <details><summary>App Development</summary>
+  <details><summary>Mobile App Development</summary>
   <ul>
     <li><a href="https://github.com/postguitarist">Workout Tracker (Soon)</a></li>
     <li><a href="https://github.com/postguitarist">Placeholder</a></li>
