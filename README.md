@@ -14,27 +14,27 @@
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary>
   <ul>
-    <li><a href="https://github.com/">Placeholder</a></li>
-    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/postguitarist/portfolio">Portfolio</a></li>
+    <li><a href="https://github.com/postguitarist">Placeholder</a></li>
   </ul>
  </details>
   <details>
-  <summary>AI Development</summary>
+  <summary>Application Development</summary>
   <ul>
-    <li><a href="https://github.com/">Placeholder</a></li>
-    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/postguitarist">Placeholder</a></li>
+    <li><a href="https://github.com/postguitarist">Placeholder</a></li>
   </ul>
   </details>
-  <details><summary>Game Designing & Development</summary>
+  <details><summary>App Development</summary>
   <ul>
-    <li><a href="https://github.com/">Placeholder</a></li>
-    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/postguitarist">Workout Tracker (Soon)</a></li>
+    <li><a href="https://github.com/postguitarist">Placeholder</a></li>
   </ul>
 </details>
-<details><summary>Linux Development</summary>
+<details><summary>Cyber Security Development</summary>
   <ul>
-    <li><a href="https://github.com/">Placeholder</a></li>
-    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/postguitarist">Placeholder</a></li>
+    <li><a href="https://github.com/postguitarist">Placeholder</a></li>
   </ul>
 </details>
 
@@ -53,29 +53,17 @@
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/c++.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/html5.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/css3.svg">&nbsp;
-<!-- <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/javascript.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/react.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/django.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/npm.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/nodedotjs.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/dotnet.svg">&nbsp; -->
 <h3>[$Operating Systems:~#]</h3>
 
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/windows.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/ubuntu.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/debian.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/redhat.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/kalilinux.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/macos.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/android.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/ios.svg">&nbsp;
 <h3>[$Integrated Development Environments:~#]</h3>
 
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/vscode.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/atom.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/sublime.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/spyder.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/jupyter.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/androidstudio.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/xcode.svg">&nbsp;
 <h3>[$Other Technologies:~#]</h3>
