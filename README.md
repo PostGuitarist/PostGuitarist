@@ -3,41 +3,41 @@
   
  <img align="right" src="https://github.com/postguitarist/postguitarist/blob/master/logos/code.gif" width="350px">
 
-<a href="https://www.linkedin.com/in/mahendragandham/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
-<a href="https://github.com/mahendrasaikumargandham"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/github.svg" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/mahendra.gandham.3/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/facebook.svg" width="30" /></a>&nbsp;
-<a href="mailto:mahendragandham730@gmail.com"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/gmail.svg" width="30" /></a>&nbsp;
-<a href="https://twitter.com/mahendra_4919"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/twitter.svg" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/mahendra_4919"><img style="padding:30px" src="https://github.com/postguitarist/postguitarist/blob/master/logos/instagram.svg" width="30" /></a>
+<a href="https://www.linkedin.com/in/zaden-connell-a46a411ab/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
+<a href="https://www.youtube.com/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
+<a href="https://github.com/postguitarist"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/github.svg" width="30" /></a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100010644737482"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/facebook.svg" width="30" /></a>&nbsp;
+<a href="mailto:zaden.connell@gmail.com"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/gmail.svg" width="30" /></a>&nbsp;
+<a href="https://twitter.com/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/twitter.svg" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/zaden_connell"><img style="padding:30px" src="https://github.com/postguitarist/postguitarist/blob/master/logos/instagram.svg" width="30" /></a>
 
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/SearchEngine">Search Engine</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/LinkedIn-Clone">LinkedIn-Clone</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/Netflix-imdb">Netflix-imdb</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/amazon-clone">Amazon-Clone</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/hardwareservices">Hardware Services</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
   </ul>
  </details>
   <details>
   <summary>AI Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/face-detection-app">Face-detection-App</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/smile-detector-app">Smile-detector-App</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
   </ul>
   </details>
   <details><summary>Game Designing & Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/Conqueror">Conqueror</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/Linux_kernel">Linux Kernel</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
   </ul>
 </details>
 <details><summary>Linux Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/Conqueror">Conqueror</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/Linux_kernel">Linux Kernel</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
+    <li><a href="https://github.com/">Placeholder</a></li>
   </ul>
 </details>
 
@@ -100,11 +100,11 @@
 
 <h2>What if you like my work? 🚀</h2>
 <ul>
-  <li>Subscribe to my <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ">Youtube Channel</a></li>
+  <li>Subscribe to my <a href="https://www.youtube.com/">Youtube Channel</a></li>
   <li>Star ⭐  the Projects you wish</li>
 </ul>
 
-![Mahendra's Github Profile Views](https://komarev.com/ghpvc/?username=postguitarist&color=blueviolet)  
+![PostGuitarist's Github Profile Views](https://komarev.com/ghpvc/?username=postguitarist&color=blue)  
 
 
 <a href="https://github.com/postguitarist/postguitarist">
@@ -114,8 +114,8 @@
 
 </a>
 
-[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true)
+[![PostGuitarist's Github Stats](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true)](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=postguitarist&hide_border=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=postguitarist&hide_border=true)
 ![](https://activity-graph.herokuapp.com/graph?username=postguitarist&theme=redical)
