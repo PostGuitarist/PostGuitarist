@@ -12,7 +12,7 @@
 <details><summary>Full Stack Development</summary>
   <ul>
     <li><a href="https://github.com/postguitarist/portfolio">Portfolio</a></li>
-    <li><a href="https://github.com/postguitarist">Placeholder</a></li>
+    <li><a href="https://github.com/PostGuitarist/FitnessBuddy-WebApp">FitnessBuddy - Web App</a></li>
   </ul>
  </details>
   <details>
@@ -24,7 +24,7 @@
   </details>
   <details><summary>Mobile App Development</summary>
   <ul>
-    <li><a href="https://github.com/postguitarist">Workout Tracker (Soon)</a></li>
+    <li><a href="https://github.com/PostGuitarist/FitnessBuddy-MobileApp">WFitnessBuddy - Mobile App</a></li>
     <li><a href="https://github.com/postguitarist">Placeholder</a></li>
   </ul>
 </details>
