@@ -35,11 +35,11 @@
   </ul>
 </details>
 
-<h2>The Questions You May Have 😕</h2>
+<h2>The Questions You May Have ❔</h2>
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-  An Information Technolgoy student at Liberty University. Studying Data Networkign & Security, and Web and Mobile Programming<br>
+  An Information Technolgoy student at Liberty University. Studying Data Networking & Security, and Web and Mobile Programming<br>
   </pre>
 </details>
 <h2>Worked with</h3>
