@@ -1,7 +1,7 @@
-<h1>Hey, This is <a href="https://liberty.edu/">Zaden Connell (IT Student)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px"></h1>
+<h1>Hey, This is <a href="https://liberty.edu/">Zaden Connell (IT Student)</a>
 <h3>Passionate about Cyber Security, Application, and Web & Mobile Development</h3>
   
- <img align="right" src="https://github.com/postguitarist/postguitarist/blob/master/logos/code.gif" width="250px">
+ <img align="right" src="https://github.com/postguitarist/postguitarist/blob/master/logos/code.gif" width="350px">
 
 <a href="https://www.linkedin.com/in/zaden-connell-a46a411ab/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://github.com/postguitarist"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/github.svg" width="30" /></a>&nbsp;
