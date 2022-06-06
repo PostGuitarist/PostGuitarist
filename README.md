@@ -25,7 +25,7 @@
   <details><summary>Mobile App Development</summary>
   <ul>
     <li><a href="https://github.com/PostGuitarist/MyFitnessPal-SwiftUI">MyFitnessPal - SwiftUI</a></li>
-    <li><a href="https://github.com/postguitarist">Placeholder</a></li>
+    <li><a href="https://github.com/PostGuitarist/Weather-SwiftUI">Weather - SwiftUI</a></li>
   </ul>
 </details>
 <details><summary>Cyber Security Development</summary>
