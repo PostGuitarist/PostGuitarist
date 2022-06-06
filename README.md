@@ -3,7 +3,7 @@
   
 <img align="right" src="https://github.com/postguitarist/postguitarist/blob/master/logos/code.gif" width="350">
 
-<a href="https://www.linkedin.com/in/zaden-connell-a46a411ab/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/zaden-connell/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://github.com/postguitarist"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/github.svg" width="30" /></a>&nbsp;
 <a href="mailto:zaden.connell@gmail.com"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/gmail.svg" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/zaden_connell"><img style="padding:30px" src="https://github.com/postguitarist/postguitarist/blob/master/logos/instagram.svg" width="30" /></a>
