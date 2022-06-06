@@ -11,8 +11,8 @@
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary>
   <ul>
-    <li><a href="https://github.com/PostGuitarist/FitnessBuddy-WebApp">FitnessBuddy - Web App</a></li>
-    <li><a href="https://github.com/postguitarist/portfolio">Portfolio</a></li>
+    <li><a href="https://github.com/PostGuitarist/portfolio">Portfolio</a></li>
+    <li><a href="https://github.com/postguitarist/postguitarist">postguitarist</a></li>
   </ul>
  </details>
   <details>
@@ -24,7 +24,7 @@
   </details>
   <details><summary>Mobile App Development</summary>
   <ul>
-    <li><a href="https://github.com/PostGuitarist/FitnessBuddy-MobileApp">FitnessBuddy - Mobile App</a></li>
+    <li><a href="https://github.com/PostGuitarist/MyFitnessPal-SwiftUI">MyFitnessPal - SwiftUI</a></li>
     <li><a href="https://github.com/postguitarist">Placeholder</a></li>
   </ul>
 </details>
@@ -35,13 +35,13 @@
   </ul>
 </details>
 
-<h2>The Questions You May Have ❔</h2>
+<!-- <h2>The Questions You May Have ❔</h2>
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-  An Information Technolgoy student at Liberty University. Studying Data Networking & Security, and Web and Mobile Programming<br>
+  An Information Technolgoy student at Liberty University. Studying Data Networking & Security, Web & Mobile Programming, and a Minor in Computer Science<br>
   </pre>
-</details>
+</details> -->
 <h2>Worked with</h3>
 <h3>[$Programming Languages and Frameworks:~#]</h3>
 
@@ -70,11 +70,11 @@
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/azure.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/git.svg">&nbsp; -->
 
-<h2>What if you like my work? 🚀</h2>
+<!-- <h2>What if you like my work? 🚀</h2>
 <ul>
   <li>Subscribe to my <a href="https://www.youtube.com/">Youtube Channel</a></li>
   <li>Star ⭐  the Projects you wish</li>
-</ul>
+</ul> -->
 
 ![PostGuitarist's Github Profile Views](https://komarev.com/ghpvc/?username=postguitarist&color=blue)  
 
