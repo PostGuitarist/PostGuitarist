@@ -1,7 +1,7 @@
-<h1>Hey, This is <a href="https://liberty.edu/">Zaden Connell (IT Student)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60"></h1>
+<h1>Hey, I'm Zaden<!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">--></h1>
 <h3>Passionate about Cyber Security, Application, and Web & Mobile Development</h3>
   
-<img align="right" src="https://github.com/postguitarist/postguitarist/blob/master/logos/code.gif" width="350">
+<!--<img align="right" src="https://github.com/postguitarist/postguitarist/blob/master/logos/code.gif" width="350">-->
 
 <a href="https://www.linkedin.com/in/zaden-connell/"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://github.com/postguitarist"><img src="https://github.com/postguitarist/postguitarist/blob/master/logos/github.svg" width="30" /></a>&nbsp;
@@ -39,7 +39,7 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-  An Information Technolgoy student at Liberty University. Studying Data Networking & Security, Web & Mobile Programming, and a Minor in Computer Science<br>
+  An Information Technology student at Liberty University. Studying Data Networking & Security, Web & Mobile Programming, and a Minor in Computer Science<br>
   </pre>
 </details> -->
 <h2>Worked with</h3>
@@ -49,7 +49,7 @@
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/python.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/c++.svg">&nbsp;
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/html5.svg">&nbsp;
-<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/css3.svg">&nbsp;
+<!--<img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/css3.svg">&nbsp;-->
 <h3>[$Operating Systems:~#]</h3>
 
 <img height="30" src="https://github.com/postguitarist/postguitarist/blob/master/logos/windows.svg">&nbsp;
