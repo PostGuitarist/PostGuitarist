@@ -1,5 +1,5 @@
 <h1>Hey, I'm Zaden<!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">--></h1>
-<h3>Passionate about Software Engineering and Development</h3>
+<h3>Sutdent at Liberty University</h3>
   
 <!--<img align="right" src="https://github.com/postguitarist/postguitarist/blob/master/logos/code.gif" width="350">-->
 
