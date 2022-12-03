@@ -3,11 +3,15 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
+-  **School :** Liberty University
+-  **Majors :** Web & Mobile Programming | Data Networking & Security
+-  **Minor :** Computer Science
+<br />
+
 -  **Learning :** Mobile Development | Open-Source 	
--  **Languages :** C++, C, Python, Java
+-  **Languages :** C++, C, Java, Python
 -  **Hobbies :** Music & Snowboarding
 -  **Fact :** First solve the problem, then write the code 
--  **School :** Liberty University
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
