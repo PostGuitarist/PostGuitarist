@@ -4,8 +4,8 @@
 ### About
 
 -  **School :** Liberty University
--  **Majors :** Web & Mobile Programming | Data Networking & Security
--  **Minor :** Computer Science
+-  **Major :** CS: Software Engineering
+-  **Minor :** Business
 <br />
 
 -  **Learning :** Mobile Development | Open-Source 	
