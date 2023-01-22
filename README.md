@@ -11,7 +11,6 @@
 -  **Learning :** Mobile Development | Open-Source 	
 -  **Languages :** C++, Java, Python
 -  **Hobbies :** Music & Snowboarding
--  **Fact :** First solve the problem, then write the code 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
