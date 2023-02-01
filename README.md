@@ -8,7 +8,7 @@
 -  **Minor :** Business
 <br />
 
--  **Learning :** Mobile Development | Open-Source 	
+-  **Learning :** JavaScript
 -  **Languages :** C++, Java, Python
 -  **Hobbies :** Music & Snowboarding
 
