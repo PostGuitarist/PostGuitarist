@@ -10,7 +10,7 @@
 
 -  **Learning :** JavaScript
 -  **Languages :** C++, Java, Python
--  **Hobbies :** Music & Snowboarding
+-  **Hobbies :** Weightlifting, Music, Snowboarding
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
