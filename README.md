@@ -15,7 +15,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PostGuitarist's Github Stats](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true)](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true)
+<!-- [![PostGuitarist's Github Stats](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true)](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true) -->
 
 ![](https://activity-graph.herokuapp.com/graph?username=postguitarist&theme=redical)
 ![](https://github.com/postguitarist/postguitarist/blob/master/generated/overview.svg)
