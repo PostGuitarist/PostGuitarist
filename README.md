@@ -8,7 +8,8 @@
 -  **Minor :** Business
 <br />
 
--  **Learning :** JavaScript
+-  **Website :** https://zadenconnell.tech
+-  **Learning :** FullStack Development
 -  **Languages :** C++, Java, C#, Python
 -  **Hobbies :** Weightlifting, Music, Snowboarding
 
