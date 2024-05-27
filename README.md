@@ -11,16 +11,11 @@
 -  **Website :** https://zadenconnell.tech
 -  **Learning :** FullStack Development
 -  **Languages :** C++, Java, C#, Python
--  **Hobbies :** Weightlifting, Music, Snowboarding
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<!-- [![PostGuitarist's Github Stats](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true)](https://github-readme-stats.vercel.app/api?username=postguitarist&show_icons=true) -->
 
 ![](https://activity-graph.herokuapp.com/graph?username=postguitarist&theme=redical)
 ![](https://github.com/postguitarist/postguitarist/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/postguitarist/postguitarist/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<!-- ![PostGuitarist's Github Profile Views](https://komarev.com/ghpvc/?username=postguitarist&color=blue)  -->
