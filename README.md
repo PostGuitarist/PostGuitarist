@@ -8,13 +8,7 @@
 -  **Minor :** Business
 <br />
 
--  **Website :** https://zadenconnell.tech
--  **Languages :** C++, Python, C#
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://activity-graph.herokuapp.com/graph?username=postguitarist&theme=redical)
 ![](https://github.com/postguitarist/postguitarist/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/postguitarist/postguitarist/blob/master/generated/languages.svg#gh-dark-mode-only)
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
